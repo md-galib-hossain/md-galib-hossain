@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js & Redux**
 
-- 👨‍💻 All of my projects are available at [https://md-galib-hossain-new.netlify.app/](https://md-galib-hossain-new.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mdgalibhossain.vercel.app/](https://mdgalibhossain.vercel.app/)
 
 - 💬 Ask me about **Web developement & MERN**
 
