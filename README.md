@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-galib-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="md-galib-hossain" /> </p>
 
-- 🌱 I’m currently learning **Next.js & Redux**
+- 🌱 I’m currently Working with **Next.js , Redux , Express.js & Postgresql**
 
 - 👨‍💻 All of my projects are available at [https://mdgalibhossain.vercel.app/](https://mdgalibhossain.vercel.app/)
 
