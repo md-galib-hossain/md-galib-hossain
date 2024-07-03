@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mdgalibhossain23@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_zf7om70tqDmdEYtPxG07VH7_Dn305nL/view?usp=sharing){:target="_blank"}
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1_zf7om70tqDmdEYtPxG07VH7_Dn305nL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
