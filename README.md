@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web development & MERN**
 
-- 📫 How to reach me **mdgalibhossain23@gmail.com**
+- 📫 How to reach me **mdgalib23@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1_zf7om70tqDmdEYtPxG07VH7_Dn305nL/view?usp=sharing)
 
